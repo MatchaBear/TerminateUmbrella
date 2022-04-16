@@ -1,0 +1,2 @@
+# TerminateUmbrella
+ net stop CiscoOpenDNS
